@@ -1,1 +1,7 @@
 An exampl to use gradle to compile and run for a kotlin native code.
+
+To install gradle, please follow the link:
+https://gradle.org/install/
+
+The tutorial of this colab is:
+https://kotlinlang.org/docs/native-gradle.html#create-project-files
